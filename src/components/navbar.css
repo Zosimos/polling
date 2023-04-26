@@ -1,4 +1,5 @@
-.navbar {
-    color: red;
-    border: 1px solid blue;
+.navbar1 {
+    border: solid 10px black;
+    border-radius:1ch;
+    background-color: rgb(206, 206, 206);
 }
