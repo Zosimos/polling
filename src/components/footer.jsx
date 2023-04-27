@@ -3,8 +3,9 @@ import "./footer.css";
 function Footer() {
     return (
         <div className="footer">
-            <h4>Connect With Us</h4>
+            <p></p>
             <p>&copy; 2023 The Polling Station. All Rights Reserved.</p>
+            <p></p>
         </div>
     );
 }
