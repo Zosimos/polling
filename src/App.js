@@ -4,6 +4,7 @@ import Footer from "./components/footer";
 import Home from "./pages/home";
 import About from "./pages/about";
 import Login from "./pages/login";
+import Newuser from "./pages/newuser";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
@@ -20,6 +21,7 @@ function App() {
                     <Route path="/" element={<Home />}></Route>
                     <Route path="/about" element={<About />}></Route>
                     <Route path="/login" element={<Login />}></Route>
+                    <Route path="/newuser" element={<Newuser />}></Route>
                 </Routes>
 
                 <Footer></Footer>
