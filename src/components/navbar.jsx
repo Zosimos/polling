@@ -5,7 +5,7 @@ function Navbar() {
         <div className="navbar1">
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="/">
+                    <a class="navbar-brand" href="/poll">
                         The Polls
                     </a>
                     <button
